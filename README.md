@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hfmenhem
-- 👀 I’m interested in learnign Java
-- 🌱 I’m currently learning Java by myself
+- 👀 I’m interested in learnign Python applied to physics
+- 🌱 I’m currently learning physics
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me E-mail me at hfmenhem@gmail.com
 
